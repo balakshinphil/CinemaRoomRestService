@@ -52,6 +52,6 @@ public class CinemaController {
 
 
     private boolean isPasswordValid(String password) {
-        return password != null && password.hashCode() == -1910141964;
+        return password != null && password.hashCode() == -1910141964;// Password: super_secret
     }
 }
